@@ -207,9 +207,6 @@ header{
     transition: .4s;
 }
 
-.conhecimentos li:hover{
-    transform: scale(1.1);
-}
 
 .projetos li{
     display: inline-block;
